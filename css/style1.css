@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.table-list, td{
+    border: 0.5px solid rgba(128, 128, 128, 0.389);
+    border-collapse:collapse ;
+}
+.table-one{
+background-color: rgba(250, 221, 226, 0.842);
+font-family: sans-serif;
+font-weight: 700;
+}
+.table-two, .table-four, .table-sex{
+    background-color: rgb(201, 238, 245);
+}
+.table-three,.table-five{
+    background-color: rgb(251, 240, 225);
+    
+}
+td{
+    padding: 5px 50px 5px 5px;
+}
